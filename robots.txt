@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://faiazhaider2-sudo.github.io/Alpine-Ascents/sitemap.xml
